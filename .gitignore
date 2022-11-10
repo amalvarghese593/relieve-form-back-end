@@ -2,3 +2,6 @@
 node_modules
 # Environment varibales
 .env
+
+#ignore form files
+/src/_data/
